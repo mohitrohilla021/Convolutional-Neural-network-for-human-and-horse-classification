@@ -12,7 +12,7 @@ This convolution neural network is made to distinguish the given image into a ho
 
 ## Part 2:
 
-![](Computer%20generated%20image%202.JPG)
+![](Computer%20generator%20image%202.JPG)
 
 ## The tested results
 
